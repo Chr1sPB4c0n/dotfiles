@@ -3,8 +3,7 @@
     "layer": "top",
     "position": "top",
     "modules-left": [
-	  "hyprland/workspaces", 
-	  "custom/makima",
+	  "hyprland/workspaces",
 	  "hyprland/window"
     ],
     "modules-center": [],
@@ -37,11 +36,6 @@
 	       "4": []
 	},
 	"sort-by-number": true
-    },
-    "custom/makima": {
-    	"format": "マキマ",
-	"tooltip": false,
-	"max-length": 24
     },
     "clock": {
 	"interval": 30,
