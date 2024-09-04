@@ -1,11 +1,10 @@
 # AMOLINAE'S DOTFILES
 - Hyprland
 - Waybar
-- Foot
+- Kitty
 - Mako
-- Zathura
-- NeoVim (soon)
-- lf (soon)
+- Vim
+- Dolphin
 - Tofi
 - Fastfetch
 
